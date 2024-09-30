@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1727629482565,
+    "title": "UwU",
+    "author": "Uwuwuwuw",
+    "genre": "Fiction",
+    "publishedYear": 2024,
+    "availability": "available"
+  },
+  {
+    "id": "1727629933781",
+    "title": "UwU",
+    "author": "Cool",
+    "genre": "UwU",
+    "publishedYear": 2000,
+    "availability": true
+  }
+]
